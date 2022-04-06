@@ -12,5 +12,7 @@
             "email": "viann45@hotmail.fr"
         }
     ],
-    "require": {}
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
 }
