@@ -1,0 +1,16 @@
+{
+    "name": "vianney/quete_composer",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "baloolc",
+            "email": "viann45@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
